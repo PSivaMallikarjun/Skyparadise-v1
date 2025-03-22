@@ -64,6 +64,14 @@ Skyparadise-v1 is released under the MIT License. You are free to use, modify, a
 ## Contributors
 
 - **Developer:** Siva Mallikarjun Parvatham
+![Screenshot 2025-03-22 191209](https://github.com/user-attachments/assets/a6c1f744-51e6-440d-a6a8-b94705da039b)
+![Screenshot 2025-03-22 191322](https://github.com/user-attachments/assets/d72af37e-ce18-4ae7-8862-19ad79a29b8a)
+![Screenshot 2025-03-22 191331](https://github.com/user-attachments/assets/32b88bb3-1d9b-4d37-8893-37fa53b3dab5)
+![Screenshot 2025-03-22 191420](https://github.com/user-attachments/assets/20f6e236-2ba8-478b-96bc-466388385330)
+
+
+
+
 
 For contributions, submit a pull request to the official repository.
 
